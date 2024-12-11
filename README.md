@@ -35,6 +35,14 @@ Tento program používá library `pynput` k simulaci psaní na klávesnici. Mů�
    Nebo pravým tlačítkem myši klikni na soubor a vyber Spustit pomocí Python.
 5. Přepni se do aplikace, kde chceš, aby se text napsal (máš 2 sekundy po spuštění skriptu).
 
+Pokud potřebuješ opsat nějáký text z okna, udělej screenshot a vlož ho do této stránky: [imagetotext.info](https://www.imagetotext.info/)
+Poté dáš pouze zkopírovat a máš to. Pozor ale občas ale stránka rozpozná třeba ů jako přehláskované ü nebo dá nové odstavce tam kde nemá. 
+To je na tobě a musíš tyto malé chyby opravit manuálně. Většinou jich není moc. A tak lepší opravit pár chyb než to opisovat celý jak magor ne? :)
+
+Také když něco píšeš na přesnost tak nebuď magor a neposílej to všechno s neuvěřitelnou rychlostí a 100% přesností. Nech v textu schválně pár chyb nebo pár jich tam přidej.
+Pro rychlost je něco okolo těch 0.280 pomalé a tak můžeš si s tím pohrát a uvidíš
+Bohužel při opisování musíš zůstat na okně které opisuješ a nemůžeš dělat na kompu u toho nic jiného :(
+
 ## Příklad
 
 Zde je ukázkové nastavení:
